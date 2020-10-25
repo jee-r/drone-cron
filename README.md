@@ -1,7 +1,7 @@
-# drone-crone
+# drone-cron
 This is a script that you can put in your cron table for automacly re-run the last build of your repos in drone.io
 
-## requierements
+## requirements
 
     - python3
     - drone account
